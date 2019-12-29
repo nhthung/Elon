@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("HELLO")
+	fmt.Println("HELLO!")
 	e := echo.New()
 	e.Logger.Fatal(e.Start(":8000"))
 }
