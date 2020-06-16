@@ -1,0 +1,9 @@
+[submodule "code/Real-Time-Voice-Cloning"]
+	path = code/Real-Time-Voice-Cloning
+	url = https://github.com/CorentinJ/Real-Time-Voice-Cloning
+[submodule "code/vocal-style-transfer"]
+	path = code/vocal-style-transfer
+	url = https://github.com/eliceio/vocal-style-transfer
+[submodule "code/WaveRNN"]
+	path = code/WaveRNN
+	url = https://github.com/fatchord/WaveRNN

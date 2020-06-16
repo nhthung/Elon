@@ -1,7 +1,3 @@
-code/Real-Time-Voice-Cloning
-code/vocal-style-transfer
-code/WaveRNN
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
